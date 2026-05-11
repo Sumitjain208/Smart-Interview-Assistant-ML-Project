@@ -10,3 +10,5 @@ librosa
 scipy
 matplotlib
 seaborn
+mediapipe==0.10.14
+sounddevice==0.5.2
