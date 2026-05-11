@@ -1,5 +1,5 @@
 import speech_recognition as sr
-import pyaudio
+
 def speech_to_txt():
       recognizer=sr.Recognizer()
       with sr.Microphone() as source:
