@@ -5,11 +5,8 @@ scikit-learn
 nltk
 textblob
 SpeechRecognition
-PyAudio
 opencv-python
-mediapipe
 librosa
-sounddevice
 scipy
 matplotlib
 seaborn
